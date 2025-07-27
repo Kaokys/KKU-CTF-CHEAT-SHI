@@ -1,3 +1,5 @@
+# สรุปไว้อ่านครับไอ่🙉ำ
+
 # คำสั่ง Terminal พื้นฐาน (Common Terminal Commands)
 
 ## คำสั่งหลักและการนำทาง (Key Commands & Navigation)
