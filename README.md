@@ -1,5 +1,5 @@
-# สรุปไว้อ่านครับไอ่ดำ
-# KKU CTF Complete Guide & Cheat Sheet 🚀
+# สรุปไว้อ่านครับไอ่🙉ำ
+# KKU CTF Cheat Sheet 🙉🙉🙉
 
 ## 🌐 1. Web Application Exploitation
 
