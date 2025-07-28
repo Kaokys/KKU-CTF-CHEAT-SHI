@@ -187,6 +187,8 @@ l\s                  # escape character
 4. Extract embedded files
 
 **เครื่องมือที่ใช้:**
+- **Aperi Solve** - tool online หลายอย่าง
+- **StegOnline** - tool online หลายอย่าง
 - **ExifTool** - ดู metadata ของไฟล์รูปภาพ
 - **Binwalk** - หาไฟล์ที่ซ่อนใน binary
 - **Steghide** - extract ข้อมูลจาก steganography
@@ -857,6 +859,8 @@ KCTF{...}
 - **Nikto** - Web server scanner
 
 ### Forensics Tools  
+- **Aperi Solve** - tool online หลายอย่าง
+- **StegOnline** - tool online หลายอย่าง
 - **Autopsy** - Digital forensics platform
 - **Wireshark** - Network protocol analyzer
 - **Volatility** - Memory analysis framework
